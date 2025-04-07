@@ -1,8 +1,8 @@
-#Guía de Estilo para la Base de Datos
+# Guía de Estilo para la Base de Datos
 
-##Aplicación de Presupuestos para Empresas de Servicios Alimentarios
+## Aplicación de Presupuestos para Empresas de Servicios Alimentarios
 
-###Definición del Problema
+### Definición del Problema
 Las pequeñas y medianas empresas (Pymes) en el sector de la alimentación enfrentan dificultades al generar presupuestos detallados para sus clientes, especialmente cuando estos requieren servicios de catering o menús personalizados para eventos. Actualmente, este proceso suele ser manual, propenso a errores y requiere tiempo considerable para calcular costos, insumos y recetas necesarias.
 
 El objetivo de esta guía es establecer convenciones claras para el diseño de la base de datos que sustenta la aplicación, garantizando consistencia, escalabilidad y facilidad de mantenimiento.
